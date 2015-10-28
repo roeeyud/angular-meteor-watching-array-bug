@@ -3,7 +3,7 @@ Found defect when subscribing to an array using $meteor and watching it later
 
 <h1>Install</h1>  
 Clone repository  
-Run   
+<h1>Run</h1>     
 meteor run  
 
 <h1>Test</h1>
