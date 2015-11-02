@@ -1,3 +1,4 @@
+<h1>This issue has been resolved by angular-meteor 1.0.4</h1>  
 # angular-meteor-watching-array-bug
 Found defect when subscribing to an array using $meteor and watching it later
 
